@@ -10,6 +10,9 @@ erlc -o ebin src/*.erlc
 Running:
 erl -pa ebin
 
+Once the erlang shell open, enter "application:start(gol)." and press Enter.
+Then, you are ready to enter any of the following commands.
+
 
 Command Summary
 
